@@ -1,0 +1,43 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+
+.header{
+    font-family:popines;
+        margin-left: 10px;
+        display: flex; 
+        /* text-align: center; */
+        background-color:white;
+        color: black;
+    
+
+     
+    }
+.navbar  ul{
+    list-style-type: none;
+    background-color: white;
+    display: flex; 
+}
+.navbar a{
+    padding: 10px;
+    text-decoration-line: none;
+    color: black;
+}
+.navbar.button{
+    padding: 10px;
+
+}
+.button{
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    display: flex;
+    padding-right: 20px;
+    border: none; 
+    float:right ;
+}
+
+   
+    

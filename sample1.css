@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(213, 213, 213);
+    height: 100vh;
+    font-family: poppin;
+    
+}
+.navbar{
+    display: block;
+}
+
+.navbar a{
+    text-decoration-line: none;
+    padding: 19px;
+    display: block;
+    color:black;
+}
+.navbar ul{
+    display: flex;
+     list-style-type: none;
+     background-color: rgb(109, 217, 195);
+}
+
+    
+
+.container{
+    border-style: solid ;
+    width: 1000px;
+    border-radius: 10px;
+    background-color: rgb(23, 134, 113);
+    border-color: rgb(23, 134, 113);
+    
+}
+.five{
+   display: flex;
+   
+}
+.img{
+    align-items: right;
+    flex: 1;
+    
+
+}
+.black{
+    background-color: black;
+    color:white;
+}
+button{
+    background-color: black;
+    color: white;
+}
