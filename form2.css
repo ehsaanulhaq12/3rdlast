@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 230px;
+    align-items: center;
+    height: 50vh;
+
+}
+.hello{
+    background-color: rgb(104, 170, 150);
+    border-radius: 10px;
+
+    text-align: center;
+    
+    
+}
+

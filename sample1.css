@@ -21,10 +21,7 @@ body{
     display: flex;
      list-style-type: none;
      background-color: rgb(109, 217, 195);
-}
-
-    
-
+} 
 .container{
     border-style: solid ;
     width: 1000px;
